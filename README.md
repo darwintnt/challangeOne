@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{kismusito.github.io/challangeOne/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{kismusito.github.io/challangeOne/}">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 
 ## Overview
 
-![screenshot](https://prnt.sc/ugosef)
+![screenshot](/img/image_preview.png)
 
 ### Built With
 
