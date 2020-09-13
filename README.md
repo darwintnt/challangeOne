@@ -46,4 +46,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@kismusito](https://{github.com/kismusito})
-- Youtube [@kismu](https://youtube.com/kismusito)
+- Youtube [@kismu](https://youtube.com/kismu)
