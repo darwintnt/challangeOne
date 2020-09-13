@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{kismusito.github.io/challangeOne/}">
+    <a href="https://kismusito.github.io/challangeOne/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{kismusito.github.io/challangeOne/}">
+    <a href="https://kismusito.github.io/challangeOne/">
       Solution
     </a>
     <span> | </span>
